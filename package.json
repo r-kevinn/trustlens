@@ -1,0 +1,20 @@
+{
+  "name": "trustlens",
+  "version": "1.0.0",
+  "description": "Full-Interaction Credibility & Deception Assessment Engine for Online Sellers, Jobs, Rentals, and Services",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/run_tests.js"
+  },
+  "keywords": [
+    "trust-verification",
+    "scam-detection",
+    "consumer-safety",
+    "interaction-analysis",
+    "fraud-prevention"
+  ],
+  "author": "TrustLens Team",
+  "license": "MIT"
+}
